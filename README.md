@@ -1,7 +1,7 @@
 # NewPoPUpStore
 The problem to resolve of this repository is about oppening a new Pop Up Store for a furniture Retailer in the center of Madrid. We will get this insight through the analysis of empty appartments for renting and saling in Madrid.
 # Steps of this project: 
-1. Select one of the top realstates web sites in Madrid:
+1. Select one of the top real states web sites in Madrid:
    URL: www.fotocasa.es
 2. Design and preparation of the projects .
 3. Web Scraping all rent and sale appartments in Madrid center. 
@@ -42,9 +42,9 @@ After the anlysis www.fotocasa.es I've seen that the website is API based.
 
 # The insights: 
 1. The neighborhods with the highiest number of appartments on sale and renting are Center (sol) and Salamancas neighborhoods. The business competition is located in the area. The price per metter is expensive in both locations, the hypotesis is that, these areas have not a regular turnover. This hyptosis need to be validated with other kind of data. 
-2. Chamberi, Tetuan and Chamartin are adjacents districts. Together have the  18.03 of the realstate current Market. According the analysis. A location between the three districes will be suitable. 
+2. Chamberi, Tetuan and Chamartin are adjacents districts. Together have the  18.03 of the real state current Market. According the analysis. A location between the three districes will be suitable. 
 3. Carabanchel and Puente de Vallecase are tow areas with pottential but the average squared metters and the number of rooms are smaller than the same values in the above districs. 
 
 # Conclussions: 
-Base in the data and the analysis of the realstate current situation. An adjacent location between Chamberi, Tetuan and Chamartin will be the most suitable location to open a PopUpStore for the furniture retailer. 
+Base in the data and the analysis of the real state current situation. An adjacent location between Chamberi, Tetuan and Chamartin will be the most suitable location to open a PopUpStore for the furniture retailer. 
 
