@@ -1,5 +1,5 @@
 # NewPoPUpStore
-The problem to resolve of this repository is about oppening a new Pop Up Store for a furniture Retailer in the center of Madrid- We will get this insight through the analysis of empty appartments for renting and saling in Madrid.
+The problem to resolve of this repository is about oppening a new Pop Up Store for a furniture Retailer in the center of Madrid. We will get this insight through the analysis of empty appartments for renting and saling in Madrid.
 # Steps of this project: 
 1. Select one of the top realstates web sites in Madrid:
    URL: www.fotocasa.es
