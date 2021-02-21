@@ -37,7 +37,7 @@ After the analysis www.fotocasa.es I have seen that the website is API based.
 3. Import table rent.
 4. I have prepared some queries in MySQL Workbench to be used in the analysis of the data. 
 
-# Analyze the data and provide the insights.
+# Analyze the data.
 1. I've analyzed the places were the business competition has some locations in the center of Madrid. 
 2. I have imported to Jupyter notebook the tables and I've filtered and group them base on Qty of apartments, neighborhood, price, surface, rooms and percentage of apartments per districts.
 
