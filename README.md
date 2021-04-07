@@ -6,8 +6,8 @@ If you want to see the presentation click on the below picture.
 [![Web Scraping](https://user-images.githubusercontent.com/73388089/113903665-82011480-97d1-11eb-8392-933861f8a530.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
 
 # The insights: 
-1. The neighborhoods with the highest number of apartments on sale and renting are Center (sol) and Salamanca’s neighborhoods. The business competition is in the area. The price per meter is expensive in both locations, the hypothesis is that these areas have not a regular turnover. This hypothesis needs to be validated with other kind of data. 
-2. Chamberi, Tetuan and Chamartín are adjacent districts. Together have the 18.03% of the real state current Market. According to the analysis. A location between the three districts will be suitable. 
+1. Chamberi, Tetuan and Chamartín are adjacent districts. Together, they have the 18.03% of flats on sale and 26,6 % of renting flats. A location between the three districts will be suitable. 
+2. The neighborhoods with the highest number of apartments for sale and renting are Center (Sol) and Salamancas. The price per meter is expensive in both locations, the hypothesis is that these areas have not a regular turnover. This hypothesis needs to be validated with other kind of data. 
 3. Carabanchel and Puente de Vallecas are two areas with potential but the average squared meters and the number of rooms are smaller than the same values in the above districts. 
 
 ![Circle_map_Git_hub](https://user-images.githubusercontent.com/73388089/113903562-6990fa00-97d1-11eb-805f-2235ace54e5c.png)
