@@ -3,7 +3,7 @@ The problem to resolve of this repository is about opening a new Pop Up Store fo
 
 # Presentation
 If you want to see the presentation click on the below picture.
-[![Web Scraping](https://user-images.githubusercontent.com/73388089/113902478-37cb6380-97d0-11eb-88bc-9bf037dc7e7f.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
+[![Web Scraping](https://user-images.githubusercontent.com/73388089/113903562-6990fa00-97d1-11eb-805f-2235ace54e5c.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
 
 # The insights: 
 1. The neighborhoods with the highest number of apartments on sale and renting are Center (sol) and Salamanca’s neighborhoods. The business competition is in the area. The price per meter is expensive in both locations, the hypothesis is that these areas have not a regular turnover. This hypothesis needs to be validated with other kind of data. 
