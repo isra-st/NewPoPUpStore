@@ -3,17 +3,15 @@ The problem to resolve of this repository is about opening a new Pop Up Store fo
 
 # Presentation
 If you want to see the presentation click on the below picture.
-[![Web Scraping](https://github.com/isra-st/NewPoPUpStore/blob/master/Plots/Circle_map_with_green_area_for_sale_rent.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
-
-
-* The green circle mark the best suitable area to open a new PopUp store based on real state market.
-* The size of the bubbles indicate the number of appartments.
-* The marker pins a current PopUp store.
+[![Web Scraping](https://user-images.githubusercontent.com/73388089/113902478-37cb6380-97d0-11eb-88bc-9bf037dc7e7f.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
 
 # The insights: 
 1. The neighborhoods with the highest number of apartments on sale and renting are Center (sol) and Salamanca’s neighborhoods. The business competition is in the area. The price per meter is expensive in both locations, the hypothesis is that these areas have not a regular turnover. This hypothesis needs to be validated with other kind of data. 
 2. Chamberi, Tetuan and Chamartín are adjacent districts. Together have the 18.03% of the real state current Market. According to the analysis. A location between the three districts will be suitable. 
 3. Carabanchel and Puente de Vallecas are two areas with potential but the average squared meters and the number of rooms are smaller than the same values in the above districts. 
+
+![Circle_map_Git_hub](https://user-images.githubusercontent.com/73388089/113902629-647f7b00-97d0-11eb-853c-2a0aec44b768.png)
+
 
 # Steps of this project: 
 1. Select one of the top real state web sites in Madrid:
