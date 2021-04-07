@@ -14,7 +14,7 @@ If you want to see the presentation click on the below picture.
 
 
 # Steps of this project: 
-1. Select one of the top real state web sites in Madrid:
+1. Select one of the top real estate web sites in Madrid:
    URL: www.fotocasa.es
 2. Design and preparation of the projects.
 3. Web Scraping all rent and sale apartments in Madrid center. 
