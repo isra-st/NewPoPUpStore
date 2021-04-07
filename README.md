@@ -3,7 +3,8 @@ The problem to resolve of this repository is about opening a new Pop Up Store fo
 
 # Presentation
 If you want to see the presentation click on the below picture.
-[![Web Scraping](https://github.com/isra-st/NewPoPUpStore/blob/master/Plots/Circle_map_with_green_area_for_sale_rent.png)](https://github.com/isra-st/NewPoPUpStore/files/6273019/New.PopUpStore.pptx)
+[![Web Scraping](https://github.com/isra-st/NewPoPUpStore/blob/master/Plots/Circle_map_with_green_area_for_sale_rent.png)](https://github.com/isra-st/NewPoPUpStore/files/6273112/New.PopUpStore.pptx)
+
 
 * The green circle mark the best suitable area to open a new PopUp store based on real state market.
 * The size of the bubbles indicate the number of appartments.
